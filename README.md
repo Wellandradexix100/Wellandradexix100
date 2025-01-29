@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou Wellington Andrade 👋
 
-<!--
-**Wellandradexix100/Wellandradexix100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Analise e desenvolvimento de sistemas e estudante tecnico de desenvolvimento de sistemas.
 
-Here are some ideas to get you started:
+## 🌱 Atualmente estou aprendendo
+- Linguagens: JavaScript, Python
+- Frameworks: React, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Linguagens & Ferramentas
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+
+## 📊 Estatísticas do GitHub
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Wellandradexix100&show_icons=true&theme=radical)
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/wellington-andrade-2b48a8238/)
+  
