@@ -15,7 +15,6 @@ Sou estudante de Analise e desenvolvimento de sistemas e estudante tecnico de de
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/React?logo=React&logoColor=336791)
 
 
 
