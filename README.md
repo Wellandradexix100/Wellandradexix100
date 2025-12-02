@@ -1,5 +1,11 @@
 # E aí, sou o Wellington! ✌️
 
+<p align="center">
+  <img src="./gandalf-firewall.png" alt="O Guardião do Firewall" width="600px">
+  <br>
+  <em>(Protegendo o servidor de produção contra commits de sexta-feira à tarde)</em>
+</p>
+
 ### Dev Full Stack(Em desenvolvimento kkkkk) | O cara da TI que resolve (Infra + Code)
 
 Sabe aquele dev que não fica perdido quando a internet cai? Sou eu.
