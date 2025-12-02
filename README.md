@@ -1,7 +1,7 @@
 # E aí, sou o Wellington! ✌️
 
 <p align="center">
-  <img src="./gandalf.png" alt="O Guardião do Firewall" width="100%">
+  <img src="./gandalf.png" alt="O Guardião do Firewall" width="100%" heigth="200px">
   <br>
   <em>(Protegendo o servidor de produção contra commits de sexta-feira à tarde)</em>
 </p>
