@@ -18,8 +18,8 @@ Sou estudante de Analise e desenvolvimento de sistemas e estudante tecnico de de
 
 
 
-## 📊 Estatísticas (Metrics)
-![Metrics](https://metrics.lecoq.io/Wellandradexix100?template=classic&config.timezone=America%2FSao_Paulo)
+## 📊 Estatísticas
+![Wellington's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Wellandradexix100&show_icons=true&theme=tokyonight)
 
 
 ## 📫 Como me encontrar
