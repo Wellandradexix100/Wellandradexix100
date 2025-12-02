@@ -1,10 +1,12 @@
-# E aí, sou o Wellington! ✌️
+
 
 <p align="center">
-  <img src="./gandalf.png" alt="O Guardião do Firewall" width="100%" heigth="200px">
+  <img src="./gandalf.png" alt="O Guardião do Firewall" width="100%" heigth="100px">
   <br>
   <em>(Protegendo o servidor de produção contra commits de sexta-feira à tarde)</em>
 </p>
+
+# E aí, sou o Wellington! ✌️
 
 ### Dev Full Stack(Em desenvolvimento kkkkk) | O cara da TI que resolve (Infra + Code)
 
