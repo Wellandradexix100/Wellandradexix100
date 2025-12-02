@@ -19,7 +19,10 @@ Sou estudante de Analise e desenvolvimento de sistemas e estudante tecnico de de
 
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Wellandradexix100&show_icons=true&theme=tokyonight)
+
+![Wellington's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellandradexix100&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellandradexix100&layout=compact&theme=tokyonight)
+
 
 
 ## 📫 Como me encontrar
