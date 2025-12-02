@@ -1,12 +1,12 @@
 # E aí, sou o Wellington! ✌️
 
-### 💻 Dev Full Stack | O cara da TI que resolve (Infra + Code)
+### Dev Full Stack(Em desenvolvimento kkkkk) | O cara da TI que resolve (Infra + Code)
 
-Sabe aquele dev que não fica perdido quando a internet cai? Sou eu. 😂
+Sabe aquele dev que não fica perdido quando a internet cai? Sou eu.
 
 Tenho **+10 anos de estrada** na TI. Minha base é sólida: vim da infraestrutura "raiz", configurando **Cisco, Mikrotik, Wi-Fi Premium** e liderando equipes técnicas. Agora, uso toda essa bagagem de redes e servidores para criar softwares robustos e escaláveis.
 
-Basicamente: entendo como a banda toca do cabo de rede até o front-end. 🎸
+Basicamente: entendo como a banda toca do cabo de rede até o front-end.
 
 - **O que faço:** Transformo café em código (JS/TS) e gerencio projetos de TI sem deixar a peteca cair.
 - **Vibe atual:** Migrando 100% para Engenharia de Software e criando soluções SaaS.
