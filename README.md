@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./gandalf.png" alt="O Guardião do Firewall" heigth="50px" width="100%" >
+  <img src="./gandalf.png" alt="O Guardião do Firewall" height="200px" width="100%" >
   <br>
   <em>(Protegendo o servidor de produção contra commits de sexta-feira à tarde)</em>
 </p>
