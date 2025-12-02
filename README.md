@@ -19,7 +19,8 @@ Sou estudante de Analise e desenvolvimento de sistemas e estudante tecnico de de
 
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Wellandradexix100&show_icons=true&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Wellandradexix100&show_icons=true&theme=tokyonight)
+
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/wellington-andrade-2b48a8238/)
