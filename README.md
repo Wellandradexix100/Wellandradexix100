@@ -10,7 +10,7 @@
 
 Com mais de 8 anos de experiência sólida no setor de telecomunicações e infraestrutura (configurando desde backbones e fibras ópticas até equipamentos Cisco e Mikrotik), construí uma base técnica robusta. Hoje, aplico toda essa visão arquitetônica e de redes na Engenharia de Software, criando aplicações web completas, escaláveis e resilientes.
 
-Atualmente, atuo como Tech Lead no Colégio Eximius, gerenciando toda a infraestrutura e desenvolvendo soluções internas. Paralelamente, estou no 4º período de Análise e Desenvolvimento de Sistemas (UNIFG), aprimorando ainda mais minha base teórica.
+Atualmente, atuo como Tech Lead em uma instituição de ensino, gerenciando toda a infraestrutura e desenvolvendo soluções internas. Paralelamente, estou no 4º período de Análise e Desenvolvimento de Sistemas, aprimorando ainda mais minha base teórica.
 
 Basicamente: eu entendo como a aplicação funciona desde o front-end até o servidor onde ela está hospedada.
 
